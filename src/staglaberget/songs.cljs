@@ -50,14 +50,14 @@ w:  made it down the coast in | sev en teen hours, | pickin' me a bou- quet of |
 | \"A\" [ACE]2 [ACE][ACE] [ACE]2 [ACE][ACE] | \"E\" [EGB]2 [EGB][EGB] [EGB]2 [EGB][EGB] | \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] | [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] |
 w: hopin' for Ra- leigh, I can | see my ba- by to _ | night. | _ _ _ _ So,
 P: Chorus
-| \"A\" [ACE]2 [ACE][ACE] [ACE]2 [ACE][ACE] | \"E\" [EGB]2 [EGB][EGB] [EGB]2 [EGB][EGB] | \"F#m\" [FAC]2 [FAC][FAC] [FAC]2 [FAC][FAC]|
-w:rock me ma- ma like a | wag on wheel | rock me ma- ma an- y
-| \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] | \"A\" [ACE]2 [ACE][ACE] [ACE]2 [ACE][ACE] | \"E\" [EGB]2 [EGB][EGB] [EGB]2 [EGB][EGB]  | \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] |
-w: way you feel. | Hey, | _ _ _  ma- ma | rock me. |
-| \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] | \"A\" [ACE]2 [ACE][ACE] [ACE]2 [ACE][ACE] | \"E\" [EGB]2 [EGB][EGB] [EGB]2 [EGB][EGB] | \"F#m\" [FAC]2 [FAC][FAC] [FAC]2 [FAC][FAC]|
-w: _ | Rock me, ma- ma like the | wind and the rain, | rock me ma- ma like a |
-| \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] | \"A\" [ACE]2 [ACE][ACE] [ACE]2 [ACE][ACE] | \"E\" [EGB]2 [EGB][EGB] [EGB]2 [EGB][EGB]  | \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] |
-w: south- bound train | Hey, | _ _ _ ma- ma | rock me.
+| \"A\" [ACE]2 [ACE][ACE] [ACE]2 [ACE][ACE] | \"E\" [EGB]2 [EGB][EGB] [EGB]2 [EGB][EGB] | \"F#m\" [FAC]2 [FAC][FAC] [FAC]2 [FAC][FAC]| \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] |
+w:rock me ma- ma like a | wag on wheel | rock me ma- ma an- y | way you feel.
+|  \"A\" [ACE]2 [ACE][ACE] [ACE]2 [ACE][ACE] | \"E\" [EGB]2 [EGB][EGB] [EGB]2 [EGB][EGB]  | \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] | \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] |
+w:  Hey, | _ _ _  ma- ma | rock me. | _ |
+| \"A\" [ACE]2 [ACE][ACE] [ACE]2 [ACE][ACE] | \"E\" [EGB]2 [EGB][EGB] [EGB]2 [EGB][EGB] | \"F#m\" [FAC]2 [FAC][FAC] [FAC]2 [FAC][FAC]| \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] |
+w: Rock me, ma- ma like the | wind and the rain, | rock me ma- ma like a | south- bound train
+| \"A\" [ACE]2 [ACE][ACE] [ACE]2 [ACE][ACE] | \"E\" [EGB]2 [EGB][EGB] [EGB]2 [EGB][EGB]  | \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] |
+w: Hey, | _ _ _ ma- ma | rock me.
 |1 \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] :||
 |2 \"D\" afed cA B2 | \"A\" [ACE]2  ||
 W: 1.
