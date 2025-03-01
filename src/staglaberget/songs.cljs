@@ -41,12 +41,12 @@ M: 4/4
 L: 1/8
 K: A
 P: Verse
-| \"A\" [ACE]2 [ACE][ACE] [ACE]2 [ACE][ACE] | \"E\" [EGB]2 [EGB][EGB] [EGB]2 [EGB][EGB] | \"F#m\" [FAC]2 [FAC][FAC] [FAC]2 [FAC][FAC]|
-w: Headed  down _ south to the land of the pines _ I'm thumbin my way _ in to
-| \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] | \"A\" [ACE]2 [ACE][ACE] [ACE]2 [ACE][ACE] | \"E\" [EGB]2 [EGB][EGB] [EGB]2 [EGB][EGB]  |
-w: North Car o line _ _ Starin' up the road _ and pray to god _ I see
-| \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] | [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] | \"A\" [ACE]2 [ACE][ACE] [ACE]2 [ACE][ACE] |
-w: head- lights | _ _ _ _ I | made it down the coast in
+| \"A\" [ACE]2 [ACE][ACE] [ACE]2 [ACE][ACE] | \"E\" [EGB]2 [EGB][EGB] [EGB]2 [EGB][EGB] | \"F#m\" [FAC]2 [FAC][FAC] [FAC]2 [FAC][FAC]| \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] |
+w: Headed  down _ south to the land of the pines _ I'm thumbin my way _ in to | North Car o line
+|  \"A\" [ACE]2 [ACE][ACE] [ACE]2 [ACE][ACE] | \"E\" [EGB]2 [EGB][EGB] [EGB]2 [EGB][EGB]  | \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] | [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] |
+w: Starin' up the road _ and pray to god _ I see | head- lights | _ _ _ _ I
+|  \"A\" [ACE]2 [ACE][ACE] [ACE]2 [ACE][ACE] |
+w:  made it down the coast in
 | \"E\" [EGB]2 [EGB][EGB] [EGB]2 [EGB][EGB] | \"F#m\" [FAC]2 [FAC][FAC] [FAC]2 [FAC][FAC]| \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] |
 w: sev en teen hours, | pickin' me a bou- quet of | dog wood  flow'rs and I'm a
 | \"A\" [ACE]2 [ACE][ACE] [ACE]2 [ACE][ACE] | \"E\" [EGB]2 [EGB][EGB] [EGB]2 [EGB][EGB] | \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] | [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] |
