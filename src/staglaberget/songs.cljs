@@ -45,10 +45,8 @@ P: Verse
 w: Headed  down _ south to the land of the pines _ I'm thumbin my way _ in to | North Car o line
 |  \"A\" [ACE]2 [ACE][ACE] [ACE]2 [ACE][ACE] | \"E\" [EGB]2 [EGB][EGB] [EGB]2 [EGB][EGB]  | \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] | [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] |
 w: Starin' up the road _ and pray to god _ I see | head- lights | _ _ _ _ I
-|  \"A\" [ACE]2 [ACE][ACE] [ACE]2 [ACE][ACE] |
-w:  made it down the coast in
-| \"E\" [EGB]2 [EGB][EGB] [EGB]2 [EGB][EGB] | \"F#m\" [FAC]2 [FAC][FAC] [FAC]2 [FAC][FAC]| \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] |
-w: sev en teen hours, | pickin' me a bou- quet of | dog wood  flow'rs and I'm a
+|  \"A\" [ACE]2 [ACE][ACE] [ACE]2 [ACE][ACE] | \"E\" [EGB]2 [EGB][EGB] [EGB]2 [EGB][EGB] | \"F#m\" [FAC]2 [FAC][FAC] [FAC]2 [FAC][FAC]| \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] |
+w:  made it down the coast in | sev en teen hours, | pickin' me a bou- quet of | dog wood  flow'rs and I'm a
 | \"A\" [ACE]2 [ACE][ACE] [ACE]2 [ACE][ACE] | \"E\" [EGB]2 [EGB][EGB] [EGB]2 [EGB][EGB] | \"D\" [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] | [DFA]2 [DFA][DFA] [DFA]2 [DFA][DFA] |
 w: hopin' for Ra- leigh, I can | see my ba- by to _ | night. | _ _ _ _ So,
 P: Chorus
