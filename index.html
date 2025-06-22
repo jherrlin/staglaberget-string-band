@@ -57,6 +57,22 @@
           box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
       }
 
+      .calendar-container iframe {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          border: none;
+      }
+
+      .calendar-buttons {
+          display: flex;
+          justify-content: center;
+          gap: 1rem;
+          margin-top: 1rem;
+      }
+
       .parallax::before {
           content: '';
           position: absolute;
@@ -211,13 +227,6 @@
           header p {
               font-size: 1.2rem;
           }
-
-      .calendar-buttons {
-          display: flex;
-          justify-content: center;
-          gap: 1rem;
-          margin-top: 1rem;
-      }
 
           main {
               margin: 1rem;
